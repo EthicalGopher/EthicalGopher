@@ -1,10 +1,8 @@
-# Steps represent a sequence of tasks that will be executed as part of the job
 steps:
-
-# Checks repo under $GITHUB_WORKSHOP, so your job can access it
+  # Checks repo under $GITHUB_WORKSHOP, so your job can access it
   - uses: actions/checkout@v2
 
-# Generates the snake  
+  # Generates the snake  
   - uses: Platane/snk@master
     id: snake-gif
     with:
@@ -13,7 +11,7 @@ steps:
       gif_out_path: dist/github-contribution-grid-snake.gif
       svg_out_path: dist/github-contribution-grid-snake.svg
 
- # show the status of the build. Makes it easier for debugging (if there's any issues).
+  # Show the status of the build. Makes it easier for debugging (if there's any issues).
   - run: git status
 
   # Push the changes
@@ -31,13 +29,13 @@ steps:
       build_dir: dist
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-# Steps represent a sequence of tasks that will be executed as part of the job
-steps:
 
-# Checks repo under $GITHUB_WORKSHOP, so your job can access it
+# Second set of steps for another user
+steps:
+  # Checks repo under $GITHUB_WORKSHOP, so your job can access it
   - uses: actions/checkout@v2
 
-# Generates the snake  
+  # Generates the snake  
   - uses: Platane/snk@master
     id: snake-gif
     with:
@@ -46,7 +44,7 @@ steps:
       gif_out_path: dist/github-contribution-grid-snake.gif
       svg_out_path: dist/github-contribution-grid-snake.svg
 
- # show the status of the build. Makes it easier for debugging (if there's any issues).
+  # Show the status of the build. Makes it easier for debugging (if there's any issues).
   - run: git status
 
   # Push the changes
