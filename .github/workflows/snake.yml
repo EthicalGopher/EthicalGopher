@@ -17,21 +17,20 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # Debug step to check variables
+      # Debugging to check variables and if the username is valid
       - name: Debugging
         run: |
-          echo "Github username: mishmanners"
+          echo "Github username: EthicalGopher"
           echo "Checking if dist directory exists..."
           ls -alh dist || echo "dist directory not found"
 
-      # Generates the snake (removed unsupported inputs)
+      # Generates the snake without specifying outputs explicitly
       - name: Generate snake GIF
         uses: Platane/snk@v2.0.0
         id: snake-gif
         with:
-          github_user_name: mishmanners
-          outputs: dist/github-contribution-grid-snake.gif  # Use 'outputs' for file path
-
+          github_user_name: EthicalGopher
+          
       # Show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
