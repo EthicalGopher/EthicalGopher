@@ -16,13 +16,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake  
 
-<div align="center">  
-  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />  
-</div>  
-
----
 
 ## 🏆 GitHub Achievements  
 
