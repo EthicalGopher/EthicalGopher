@@ -9,7 +9,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  # This workflow contains a single job called "build"
   build:
     runs-on: ubuntu-latest
 
@@ -17,6 +16,13 @@ jobs:
       # Checks repo under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout code
         uses: actions/checkout@v3
+
+      # Debug step to check variables
+      - name: Debugging
+        run: |
+          echo "Github username: mishmanners"
+          echo "Checking if dist directory exists..."
+          ls -alh dist || echo "dist directory not found"
 
       # Generates the snake  
       - name: Generate snake GIF
