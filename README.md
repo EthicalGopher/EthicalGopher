@@ -21,7 +21,7 @@
 ## 🏆 GitHub Achievements  
 
 <div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=EthicalGopher&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />  
 </div>  
 
 ---
