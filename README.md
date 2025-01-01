@@ -1,6 +1,8 @@
-# 👨‍💻 Sankhyahrick Swami  
+# 👨‍💻 Sankhyahrick Swami  (EthicalGopher)
 
-![Banner](https://via.placeholder.com/1000x200?text=Welcome+to+My+Profile)  
+<div align="center">
+  <img src="https://github.com/EthicalGopher/gif/blob/main/standard.gif?raw=true" alt="Banner" />
+</div>
 
 ## 🌟 Tech Stack  
 
