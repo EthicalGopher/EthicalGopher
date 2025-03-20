@@ -22,11 +22,14 @@
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" /></a>  
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" /></a>  
   <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" /></a>  
-  <a href="#"><img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" /></a>  
+  <a href="#"><img src="https://img.shields.io/badge/-Remix.js-000000?logo=remix&logoColor=white&style=for-the-badge" alt="Remix.js" /></a>  
+  <a href="#"><img src="https://img.shields.io/badge/-Wails-2C3E50?logo=wails&logoColor=white&style=for-the-badge" alt="Wails" /></a>  
   <a href="#"><img src="https://img.shields.io/badge/-MongoDB-7D3C98?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" /></a>  
+  <a href="#"><img src="https://img.shields.io/badge/-Pinecone-009688?logo=pinecone&logoColor=white&style=for-the-badge" alt="Pinecone" /></a>  
   <a href="#"><img src="https://img.shields.io/badge/-Fiber-5B2C6F?logo=fiber&logoColor=white&style=for-the-badge" alt="Fiber" /></a>  
   <a href="#"><img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" /></a>  
-</div>  
+</div>
+
 
 ---
 
