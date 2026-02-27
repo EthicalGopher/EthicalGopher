@@ -36,10 +36,9 @@
 <div align="center">
   <h2 style="color:#D9A9FF;">🏆 <b>GitHub Achievements</b></h2>
 </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=EthicalGopher&theme=radical&no-frame=true&margin-w=15&margin-h=15" /> </div>
 
-<div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=EthicalGopher&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />  
-</div>  
+
 
 ---
 
